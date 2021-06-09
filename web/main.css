@@ -1,0 +1,79 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 24, 2020, 11:09:58 PM
+    Author     : lahiru
+*/
+
+    #navText{
+        color: white;
+        
+    }
+    #selectDistric{
+        border:1px solid  #c6cacc;
+	border-radius: 0px;
+        background-color: white;
+        color: grey;
+        height: 30px;
+        font-size: 13px;
+    }
+    #logingPageText{
+	font-size: 13px;
+	color: black;
+    }
+    #logInTextFields{
+	font-size: 13px;
+	color: black;
+	font-weight: bold;
+}
+#loginButton{
+	color: #2b2b2b;
+	font-weight: bold;
+	background-color: #a7bec9;
+	margin-top: -10px;
+
+}
+#pic1{
+     display: none;
+ }
+       
+.newbtn1{
+  cursor: pointer;
+}
+#blah1{
+  width:350px;
+  height:250px;
+/*  margin-top:20px;*/
+}
+
+#pic{
+     display: none;
+ }
+       
+.newbtn{
+  cursor: pointer;
+}
+#blah{
+  width:100px;
+  height:100px;
+/*  margin-top:20px;*/
+}
+#view{
+	
+	  font-family: "Roboto", Helvetica, Arial;
+	  color: #fff;
+	background-color: #6688e3;
+	border:1px solid #6688e3;
+	border-radius: 0px;
+	
+}
+#signupTextFields{
+    	font-size: 13px;
+	color: black;
+}
+th{
+    font-size: 13px;
+}
